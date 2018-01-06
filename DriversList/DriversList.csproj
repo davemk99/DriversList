@@ -103,11 +103,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="drivers.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\CSVParser\CSVParser.csproj">
       <Project>{b4d0de12-2100-4033-8cd8-fe9eb0fcc9fb}</Project>
       <Name>CSVParser</Name>
