@@ -1,1 +1,3 @@
-The DriversList application shows all the drivers installed in your system with all the information about them.Program uses command line utility program driverquery output and gets all the info available from that command.You can download release version of program in [here]https://github.com/davemk99/DriversList/releases
+The DriversList application shows all the drivers installed in your system with all the information about them.
+Program uses command line utility program driverquery output and gets all the info available from that command.
+You can download release version of program in [here](https://github.com/davemk99/DriversList/releases)
