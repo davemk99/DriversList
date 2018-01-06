@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DriversList"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Drivers List" Height="350" Width="525">
     <Grid>
         <DataGrid x:Name="dgvDriverList" ItemsSource="{Binding DriverModel}" AutoGenerateColumns="False" EnableColumnVirtualization="True" IsReadOnly="True" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" UseLayoutRounding="True">
             <DataGrid.Columns>
